@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>rido</authors>
+    <owners>whocares</owners>
+    <projectUrl>https://github.com/ridomin/System.Rido</projectUrl>
+    <iconUrl>https://instagram.fsnc1-5.fna.fbcdn.net/t51.2885-15/e15/10299803_743656425656681_283391241_n.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>code utils from rido</description>
+    <releaseNotes>first version of the package</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+  </metadata>
+</package>
