@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace TestRep2
+namespace Nif
 {
     public enum CifNif
     {
